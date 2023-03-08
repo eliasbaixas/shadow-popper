@@ -1,0 +1,12 @@
+#tooltip {
+  background-color: rebeccapurple;
+  padding: 20px;
+  width: 200px;
+}
+
+#tip {
+  position: absolute;
+  background-color: red;
+  width: 10px;
+  height: 10px;
+}
